@@ -1,0 +1,1 @@
+This repository demonstrates common Objective-C memory management issues, specifically retain cycles and improper block handling.  The `bug.m` file shows examples of code that leads to crashes or memory leaks. The `bugSolution.m` file provides corrected versions with explanations.
